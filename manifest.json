@@ -1,7 +1,7 @@
 {
   "name": "Control de Medias",
-  "short_name": "pair_of_socks",
-  "start_url": "/index.html",
+  "short_name": "Pair of Socks",
+  "start_url": "/pair_of_socks/",
   "display": "standalone",
   "background_color": "#1f2937",
   "theme_color": "#4caf50",
