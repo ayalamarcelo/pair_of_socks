@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./images/icon/icon.png" alt="Icono" /></h1>
+<h1 align="center"><img src="./images/icon/icon.png" alt="Icono" width="70" height="auto" /></h1>
 
 ## 🧦 Pair of Socks
 Welcome to the Ticket Management System for Socks, "Pair of Socks"!
